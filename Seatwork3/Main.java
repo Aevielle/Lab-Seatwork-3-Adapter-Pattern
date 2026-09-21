@@ -1,4 +1,6 @@
+package Seatwork3;
 import java.util.List;
+import Seatwork3.SchoolManagementApp;
 
 public class Main {
     public static void main(String[] args) {

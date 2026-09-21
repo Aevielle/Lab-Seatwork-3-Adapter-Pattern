@@ -1,3 +1,4 @@
+package Seatwork3;
 public class AttendanceSystemAdapter implements SchoolManagementApp {
     private final AttendanceSystem attendanceSystem;
 

@@ -1,3 +1,4 @@
+package Seatwork3;
 public class GradingSystemAdapter implements SchoolManagementApp {
     private final GradingSystem gradingSystem;
 

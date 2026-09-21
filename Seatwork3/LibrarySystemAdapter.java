@@ -1,3 +1,4 @@
+package Seatwork3;
 public class LibrarySystemAdapter implements SchoolManagementApp {
     private final LibrarySystem librarySystem;
 
